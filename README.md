@@ -34,7 +34,3 @@ Ejercicio trabajado: **Etapas del ciclo de vida de la actividad**
 - `app/src/main/java/com/example/dessertclicker/data/Dessert.kt`
 - `app/src/main/java/com/example/dessertclicker/data/Datasource.kt`
 - `app/src/main/java/com/example/dessertclicker/ui/theme/Theme.kt`
-
-## Ejecución
-
-Abrir en Android Studio, sincronizar Gradle y ejecutar la app en un emulador o dispositivo físico.
